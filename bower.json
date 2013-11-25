@@ -1,9 +1,9 @@
 {
   "author": {
-    "name": "https://github.com/ra2637"
+    "https://github.com/Derekries"    
   },
   "name": "angular-notifications",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "main": "notification.js",
   "ignore": [
     "**/.*",
